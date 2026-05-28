@@ -1,0 +1,20 @@
+Column,Original,Encoded
+Vocabulary Richness,Ornate,0
+Vocabulary Richness,"Ornate, lyrical",1
+Vocabulary Richness,Rich,2
+Vocabulary Richness,Rich and elevated,3
+Vocabulary Richness,Simple but lyrical,4
+Imagery Density,High,0
+Imagery Density,Very high,1
+Symbolism,"Bangles, colours, womanhood",0
+Symbolism,"Garments, life cycle",1
+Symbolism,"Mother India, blood",2
+Symbolism,"Sun, lotus, jewel",3
+Symbolism,"Veil, rose, moon",4
+Genre,Lyric,0
+Genre,Ode,1
+Context,Cycle of life symbolism,0
+Context,Indian feminine life symbolism,1
+Context,Indian soldiers in WWI,2
+Context,Maternal blessings,3
+Context,Romantic dialogue,4
